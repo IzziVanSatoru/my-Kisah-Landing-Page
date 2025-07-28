@@ -15,8 +15,8 @@ A personal, emotionally-driven project showcasing Kaoruko Wakamiya from *Kaoru H
 ## 📦 Clone & Run
 
 ```bash
-git clone https://github.com/yourusername/kaoruko-tribute.git
-cd kaoruko-tribute
+git clone https://github.com/IzziVanSatoru/my-Kisah-Landing-Page.git
+cd my-Kisah-Landing-Page
 npm install
 npm run dev
 ```
